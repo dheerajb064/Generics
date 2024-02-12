@@ -1,0 +1,15 @@
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\bin\Debug\net6.0\GenericQueue.exe
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\bin\Debug\net6.0\GenericQueue.deps.json
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\bin\Debug\net6.0\GenericQueue.runtimeconfig.json
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\bin\Debug\net6.0\GenericQueue.dll
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\bin\Debug\net6.0\GenericQueue.pdb
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.AssemblyInfoInputs.cache
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.AssemblyInfo.cs
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.sourcelink.json
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.dll
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\refint\GenericQueue.dll
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.pdb
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\GenericQueue.genruntimeconfig.cache
+C:\Users\dheerajb\source\repos\Generic\GenericQueue\obj\Debug\net6.0\ref\GenericQueue.dll
